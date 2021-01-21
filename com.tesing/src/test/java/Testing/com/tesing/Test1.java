@@ -21,7 +21,7 @@ public class Test1 {
 		
 		}
 	
-	@Test
+	
 	public void login() {
 		
 		driver.findElement(By.name("userName")).sendKeys("mercury");
